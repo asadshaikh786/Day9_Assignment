@@ -1,5 +1,5 @@
 // Define an array of image filenames
-let images = ["download.jpg""download(1).jpg" "download(2).jpg"]; // Add your image filenames here
+let images = ["download.jpg,download(1).jpg, download(2).jpg"]; // Add your image filenames here
 let currentImageIndex = 0;
 
 // Get the image element and buttons
